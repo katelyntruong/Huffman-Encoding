@@ -5,7 +5,7 @@
  *
  * @author Nhan Truong
  *
- * @version May 02, 2020
+ * @version July 02, 2020
  *
  */
 public class HuffmanNode implements Comparable<HuffmanNode>{
