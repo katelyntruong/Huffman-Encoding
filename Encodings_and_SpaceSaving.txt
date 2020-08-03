@@ -1,0 +1,72 @@
+Letter: 
+: 27: 11000
+Letter:  : 104: 101
+Letter: #: 1: 1110100010
+Letter: ': 1: 1110100011
+Letter: (: 2: 111100001
+Letter: ): 2: 111101101
+Letter: *: 6: 1001011
+Letter: ,: 7: 1101000
+Letter: -: 2: 111010000
+Letter: .: 6: 1000111
+Letter: 0: 3: 10010100
+Letter: 1: 3: 10010101
+Letter: 2: 2: 111101001
+Letter: 3: 1: 1000101111
+Letter: 4: 1: 100010110
+Letter: 7: 1: 1111011100
+Letter: 8: 4: 11101010
+Letter: :: 6: 1001000
+Letter: A: 4: 11101011
+Letter: B: 6: 1000110
+Letter: C: 3: 01011101
+Letter: D: 2: 111101000
+Letter: E: 8: 1110110
+Letter: F: 6: 1001100
+Letter: G: 6: 1001101
+Letter: H: 4: 11110011
+Letter: I: 2: 111100010
+Letter: J: 4: 11101111
+Letter: K: 2: 111101100
+Letter: L: 6: 1001001
+Letter: M: 6: 0101111
+Letter: N: 4: 11101110
+Letter: O: 4: 11101001
+Letter: P: 6: 1000100
+Letter: R: 5: 0101100
+Letter: S: 5: 0101101
+Letter: T: 11: 100000
+Letter: U: 2: 111101111
+Letter: W: 2: 111100000
+Letter: Y: 1: 010111000
+Letter: [: 1: 010111001
+Letter: ]: 1: 1000101110
+Letter: a: 30: 11100
+Letter: b: 7: 1101001
+Letter: c: 14: 100111
+Letter: d: 16: 111110
+Letter: e: 67: 000
+Letter: f: 5: 0011110
+Letter: g: 9: 001110
+Letter: h: 20: 01010
+Letter: i: 30: 11011
+Letter: j: 2: 111100011
+Letter: k: 5: 0011111
+Letter: l: 18: 00110
+Letter: m: 4: 11110010
+Letter: n: 45: 0111
+Letter: o: 40: 0100
+Letter: p: 3: 10001010
+Letter: r: 36: 0010
+Letter: s: 29: 11001
+Letter: t: 42: 0110
+Letter: u: 18: 111111
+Letter: v: 4: 11110101
+Letter: w: 11: 100001
+Letter: y: 16: 110101
+Letter: z: 1: 1111011101
+
+There are 66 characters in the input file.
+The input file contains 6016 bits.
+The output file contains 3796 bits.
+The encoded output file is 1.5848261327713382 times smaller than the input file.
